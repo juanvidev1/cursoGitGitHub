@@ -1,0 +1,223 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', 'Arial';
+}
+
+li {
+    line-height: 24px;
+}
+
+/* Contenido principal */
+.contenedor-principal {
+    background-color: white;
+    width: 1200px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+/* Información general */
+.informacion-general {
+    background-color: white;
+}
+
+.descripcion-profesion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+}
+
+.nombre {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.empresas {
+    color: black;
+    margin-bottom: 11px;
+}
+
+.lugares-experiencia {
+    margin-top: 11px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.textos-listas-principal {
+    color: #FB6D3A;
+}
+
+.job-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+.descripcion {
+    margin-top: 102px;
+    margin-right: 342px;
+    margin-bottom: 40px;
+    margin-left: 88px;
+}
+
+.contenedor-proyectos {
+    margin-top: 40px;
+    margin-left: 88px;
+    margin-right: 257px;
+    margin-bottom: 51px;
+}
+
+.titulo-proyectos {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.lista-proyectos {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.texto-lista-proyectos {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.lineas-punteadas-proyectos {
+    width: 118px;
+    height: 0px;
+    left: 730.5px;
+    top: 464px;
+}
+
+.detalles-lista-proyectos {
+    font-weight: 700;
+}
+
+.contenedor-exp-laboral {
+    margin-top: 51px;
+    margin-left: 88px;
+    margin-right: 217px;
+    margin-bottom: 43px;
+}
+
+.exp1 {
+    margin-bottom: 16px;
+}
+
+.exp2 {
+    margin-bottom: 16px;
+}
+
+.exp3 {
+    margin-bottom: 16px;
+}
+
+.contenedor-educacion {
+    margin-top: 43px;
+    margin-left: 88px;
+    margin-right: 500px;
+}
+
+.titulos {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-bottom: 11px; 
+}
+
+.lugar-estudio {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+    margin-bottom: 11px;
+}
+
+.fecha-estudio {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;  
+    color: #A8A8A8;
+    margin-top: 12px;
+}
+
+/* Contenido lateral */
+
+.informacion-lateral {
+    background-color: #1E2939;
+    padding: 40px 0;
+}
+
+.titulo-lateral {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin-top: 50px;
+}
+
+.lateral-contactos, .lateral-habilidades-tecnicas, .lateral-habilidades-blandas {
+    margin-left: 40px;
+    color: white;
+}
+
+/* Elementos de contacto */
+.link-lateral {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 24px;
+}
+
+.tipo-contacto {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+
+/* Elementos de la listas laterales */
+.lista-lateral {
+    padding: 0px;
+    padding-left: 20px;
+}
+
+/* En el siguiente bloque de código le estoy indicando que en la clase 
+lista lateral me altere sólo los elementos de etiqueta li dentro de 
+esa clase. Se hace llamando el nombre de la clase y agregando un > (selector) 
+y el elemento que quiero modificar; en este caso li */
+.lista-lateral > li {
+    color: #FB6D3A;
+}
+
+/* Con la etiqueta span que se encuentra dentro de cada uno de los elementos 
+de las listas, podemos forzar a que el texto sea blanco y los puntos que 
+separan los items de otro color */
+.textos-lista {
+    color: white;
+}
+
