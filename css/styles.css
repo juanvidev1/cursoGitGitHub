@@ -221,3 +221,33 @@ separan los items de otro color */
     color: white;
 }
 
+.list-item {
+    display: flex;
+    margin: 7px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.icon2 {
+    width: 25px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.icon3 {
+    width: 20px;
+    height: 20px;
+}
+
+.img-background {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+
