@@ -7,3 +7,5 @@ En estos momentos se encuentra realizando el curso de Git y GitHub en Platzi
 Es un Rockstar reconocido
 
 Mañana se enfocará en su vida laboral
+
+Se agrega linea para probar git reset HEAD 
