@@ -250,4 +250,20 @@ separan los items de otro color */
     margin-left: 10px;
 }
 
+/*Este estilo es para cambiar el idioma de la CV*/
+.idioma-cont {
+    display: inline-flex;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.lang-cont {
+    margin: 10px;
+}
+
+.lang-icon {
+    width: 30px;
+    height: 30px;
+}
+
 
