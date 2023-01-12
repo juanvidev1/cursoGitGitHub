@@ -5,3 +5,5 @@ Tiene 34 años y está aprendiendo a programar
 En estos momentos se encuentra realizando el curso de Git y GitHub en Platzi
 
 Es un Rockstar reconocido
+
+Nueva prueba git checkout
