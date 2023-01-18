@@ -1,8 +1,9 @@
 .container {
-    width: 50%;
-    height: 50%
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .diploma {
-    size-adjust: 80%;
+    max-width: 70%;
 }
