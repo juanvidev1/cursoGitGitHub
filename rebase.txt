@@ -1,5 +1,1 @@
 Este es un archivo de pruebas para rebase
-
-Master 1
-
-Master 2
